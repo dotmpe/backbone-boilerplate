@@ -1,3 +1,22 @@
+Fork. Whishlist:
+
+- CoffeeScript. In different scenario's? 
+  Currently build from JS source using CoffeScript tooling (grunt).
+- Maybe lazy loading module build. See modulr.
+- Multiple modules? Need some additional time to analyze requirements or use of
+  seed project.
+
+Maybe look at different branches for var. types of project seed?
+
+Currently Almond makes it build to a JS and CSS packages (and a source map),
+suitable to build your own library.
+
+[![Build Status](https://secure.travis-ci.org/dotmpe/backbone-boilerplate.png)](https://travis-ci.org/dotmpe/backbone-boilerplate)
+
+[![Repository](https://badge.fury.io/gh/dotmpe%2Fbackbone-boilerplate.png)](http://badge.fury.io/gh/dotmpe%2Fbackbone-boilerplate)
+
+----
+
 ![Boilerplate](https://github.com/backbone-boilerplate/backbone-boilerplate/raw/assets/header.png)
 
 [![Build Status](https://travis-ci.org/backbone-boilerplate/backbone-boilerplate.png?branch=master)](https://travis-ci.org/backbone-boilerplate/backbone-boilerplate) [![Coverage Status](https://coveralls.io/repos/backbone-boilerplate/backbone-boilerplate/badge.png)](https://coveralls.io/r/backbone-boilerplate/backbone-boilerplate) [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/backbone-boilerplate/backbone-boilerplate?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
