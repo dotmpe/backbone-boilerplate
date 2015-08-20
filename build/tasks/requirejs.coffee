@@ -1,8 +1,8 @@
 module.exports = ->
   @loadNpmTasks "grunt-contrib-requirejs"
 
-  # This task uses James Burke's excellent r.js AMD builder to take all modules
-  # and concatenate them into a single file.
+  # Use requirejs optimizer to package app module to a single file JS file
+  # http://requirejs.org/docs/optimization.html
   @config "requirejs",
     release:
       options:

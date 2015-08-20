@@ -1,3 +1,4 @@
+// use a simplified CommonJS module wrapper around Backbone app
 define(function(require, exports, module) {
   "use strict";
 
